@@ -1,0 +1,30 @@
+{
+  "name": "CyberArk FirstUp Access Risk Comms Ledger",
+  "slug": "cyberark-firstup-access-risk-comms-ledger",
+  "platforms": [
+    "CyberArk",
+    "FirstUp"
+  ],
+  "topics": [
+    "cyberark",
+    "firstup",
+    "access-risk",
+    "workforce-comms",
+    "identity-governance",
+    "kinetic-gain"
+  ],
+  "signals": [
+    {
+      "lane": "exposure",
+      "score": 72
+    },
+    {
+      "lane": "savings",
+      "score": 61
+    },
+    {
+      "lane": "investment",
+      "score": 66
+    }
+  ]
+}

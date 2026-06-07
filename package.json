@@ -1,0 +1,10 @@
+{
+  "name": "cyberark-firstup-access-risk-comms-ledger",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Access risk communications ledger linking CyberArk exception posture to FirstUp internal notification proof.",
+  "scripts": {
+    "test": "node scripts/validate.js"
+  },
+  "license": "AGPL-3.0-only"
+}
